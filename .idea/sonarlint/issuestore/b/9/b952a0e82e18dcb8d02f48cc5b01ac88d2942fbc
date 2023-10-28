@@ -1,0 +1,10 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü8»ğ¨Õµ1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øìØ÷8¼ğ¨Õµ1
+7
+java:S1220""Move this file to a named package.8´× Õµ1
+V
+java:S3518"9Make sure "max" can't be zero before doing this division.(Éíˆ™8Éğ¨Õµ1
+G
+java:S1197"*Move the array designators [] to the type.(øìØ÷8Ìğ¨Õµ1
+G	java:S106"+Replace this use of System.out by a logger.(Éíˆ™8Ìğ¨Õµ1
