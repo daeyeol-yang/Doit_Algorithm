@@ -56,3 +56,15 @@ G.idea/sonarlint/issuestore/f/2/f22ecd263b435eebc63d66b4e6fde059c9f9e89f,6/5/65
 src/B11660.java,d/3/d3325b8dbae4be2e68771eeb5de723b57a9e2335
 ?
 src/B10986.java,d/c/dc98c15c96de6bee77c97a621f111118d5c4862d
+>
+src/B2018.java,7/8/787dfb5e344f6477c643e10336cb690db1247f21
+>
+src/B1940.java,9/8/98ccb0b7e23777993842d2bee280f3221e3c53b2
+>
+src/B1253.java,c/d/cd539629c6543f5fc90f2a1662105edc933b975d
+>
+src/B1874.java,f/9/f962873272602aa29a22e3cb5a253691c37e0957
+>
+src/B2164.java,b/1/b1c85ee925883c0539a89ccdda4787ef3e938db3
+>
+src/B2750.java,6/e/6e0ea4cced8d2bf397b775a3e9ee3f877aacd7ca
